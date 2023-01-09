@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T17:45:07 IST" name="Suite" finished-at="2023-01-09T17:46:04 IST" duration-ms="56507">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T17:45:07 IST" name="Test" finished-at="2023-01-09T17:46:04 IST" duration-ms="56507">
+      <class name="StepDefinitions.MyntraAddtoCart">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:StepDefinitions.MyntraAddtoCart@1ea9f6af]" started-at="2023-01-09T17:45:07 IST" name="beforeMethod" finished-at="2023-01-09T17:45:10 IST" duration-ms="2907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="AddingItemToCart()[pri:0, instance:StepDefinitions.MyntraAddtoCart@1ea9f6af]" started-at="2023-01-09T17:45:10 IST" name="AddingItemToCart" finished-at="2023-01-09T17:45:24 IST" duration-ms="13960" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddingItemToCart -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:StepDefinitions.MyntraAddtoCart@1ea9f6af]" started-at="2023-01-09T17:45:24 IST" name="afterMethod" finished-at="2023-01-09T17:45:24 IST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- StepDefinitions.MyntraAddtoCart -->
+      <class name="StepDefinitions.MyntraLogin">
+        <test-method is-config="true" signature="LaunchApp()[pri:0, instance:StepDefinitions.MyntraLogin@7c729a55]" started-at="2023-01-09T17:45:24 IST" name="LaunchApp" finished-at="2023-01-09T17:45:26 IST" duration-ms="1231" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LaunchApp -->
+        <test-method signature="MyntraLogin()[pri:0, instance:StepDefinitions.MyntraLogin@7c729a55]" started-at="2023-01-09T17:45:26 IST" name="MyntraLogin" finished-at="2023-01-09T17:46:03 IST" duration-ms="37803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MyntraLogin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:StepDefinitions.MyntraLogin@7c729a55]" started-at="2023-01-09T17:46:03 IST" name="afterMethod" finished-at="2023-01-09T17:46:04 IST" duration-ms="250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- StepDefinitions.MyntraLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
